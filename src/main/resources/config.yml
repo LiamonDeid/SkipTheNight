@@ -1,0 +1,13 @@
+numbers:
+  percent-sleeping-need: 60
+  duration-of-effects: 25
+  time-for-clearing-attempts-counter: 10
+  lock-time: 30
+messages:
+  first-player-lay-to-sleep: 'Сгущаются сумерки и все исчезает во мраке ночи. Игрок %playerName% предлагает пропустить текущую ночь.'
+  other-players-lay-to-sleep: 'Игроков в кровати: %alreadySleeping%, для пропуска ночи необходимо: %countOfRequiredPlayers%'
+  after-night-skip: '[Неизвестный]: День и ночь - это лишь мираж. Тем не менее, нити судьбы вновь приведут тебя в объятия моей вечной ночи.'
+  player-receive-a-locking: '&cДоступ к кровати временно заблокирован за частое взаимодействие'
+  player-released-from-locking: '&aДоступ к кровати возвращен'
+  punished-player-tries-to-sleep: '&cДоступ к кровати временно заблокирован'
+

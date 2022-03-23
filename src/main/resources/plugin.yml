@@ -1,0 +1,5 @@
+name: SkipTheNight
+version: '${project.version}'
+main: org.liamondeid.skipthenight.Main
+api-version: 1.18
+authors: [ LiamonDeid_ ]
